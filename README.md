@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ericktakashi0802@gmail.com
-- 
+- You can copy all of my projects without any problems!
