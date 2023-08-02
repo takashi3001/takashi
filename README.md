@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAKASHI
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, JavaScript, Lua, And a little bit of C#
+- 👀 I’m interested in Python, Rust.
+- 🌱 I’m currently learning Python, And a little bit of rust
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ericktakashi0802@gmail.com
 - You can copy all of my projects without any problems!
