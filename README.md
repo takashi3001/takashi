@@ -1,5 +1,5 @@
 # webo.py - Web Browser in Python
-# version = 1.0.3
+# version = 1.2.1
 
 Description:
 webo.py is a simple and lightweight web browser built using Python and the PyQt5 library. It provides basic browsing functionalities, such as opening new tabs, navigating to URLs, reloading pages, going back and forward in the browsing history, and closing tabs. The browser is designed to be fast, efficient, and easy to use.
