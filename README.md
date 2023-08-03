@@ -1,53 +1,19 @@
-# pO - Editor de Texto
-# version = 1.0
+Welcome to My GitHub Page!
+About Me
+Hello, I'm takashi, a newcomer to the world of programming with a keen interest in Rust and Python. I'm excited to learn and explore the vast possibilities that these programming languages offer. My journey into the world of coding has just begun, and I am eager to embark on this thrilling adventure of creativity, problem-solving, and innovation.
 
-Description:
-pO is a simple and lightweight text editor built using Python and the PyQt5 library. It provides basic text editing functionalities, such as creating new documents, opening existing files, and saving documents. The editor also supports undo and redo actions.
+Programming Interests
+Rust
+Rust is a modern systems programming language that caught my attention due to its emphasis on safety, performance, and concurrency. I'm fascinated by its strong type system, memory safety guarantees, and zero-cost abstractions. I believe Rust has great potential to build robust, high-performance applications and systems.
 
-Features:
-- Text editing: Create, open, and save text documents.
-- Undo/Redo: Perform undo and redo operations.
+Python
+Python, on the other hand, captivates me with its simplicity, readability, and versatility. It is an excellent language for beginners like me, and I'm eager to explore its wide range of applications, from web development and data analysis to automation and machine learning.
 
-Requirements:
-- Python 3.x
-- PyQt5 library
+What to Expect on this GitHub
+As I learn and grow as a programmer, I will be sharing my projects, code samples, and learning journey on this GitHub repository. I aim to contribute to open-source projects, collaborate with other developers, and continuously improve my skills.
 
-Usage:
-1. Open a terminal or command prompt and navigate to the directory containing the script.
-2. Run the script using Python 3:
-pO.py
-3. The text editor window will open, and you can start editing text using the provided functionalities.
+Connect with Me
+I'm open to connecting with fellow developers, sharing knowledge, and learning from others' experiences. If you have any suggestions, feedback, or just want to say hello, feel free to reach out to me. You can find my contact information in the GitHub profile.
 
-Menu Options:
-- Arquivo:
-- Novo: Create a new document.
-- Abrir: Open an existing text file.
-- Salvar: Save the current document.
-- Editar:
-- Desfazer: Undo the last action.
-- Refazer: Redo the last undone action.
-
-Keyboard Shortcuts:
-- Ctrl + N: Create a new document (equivalent to "Novo").
-- Ctrl + O: Open an existing text file (equivalent to "Abrir").
-- Ctrl + S: Save the current document (equivalent to "Salvar").
-- Ctrl + Z: Undo the last action (equivalent to "Desfazer").
-- Ctrl + Y: Redo the last undone action (equivalent to "Refazer").
-
-Known Issues:
-- None
-
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contributions:
-Contributions to this project are welcome! Feel free to open issues or submit pull requests.
-
-Acknowledgments:
-This project was inspired by the desire to create a simple and lightweight text editor using Python and PyQt5.
-
-Contact:
-For questions or feedback, please contact 'takashi' at 'ericktakashi0802@gmail.com'.
-
-Enjoy editing with pO!
-
+Thank you for visiting my page! Let's embark on this exciting coding journey together. Happy coding! 🚀
+email = ericktakashi0802@gmail.com
