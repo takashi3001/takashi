@@ -12,6 +12,12 @@ Python, on the other hand, captivates me with its simplicity, readability, and v
 What to Expect on this GitHub
 As I learn and grow as a programmer, I will be sharing my projects, code samples, and learning journey on this GitHub repository. I aim to contribute to open-source projects, collaborate with other developers, and continuously improve my skills.
 
+Working with (open source)
+I am working at my own projets:
+pO - "projecto": Light, optimized, clean and fast text editor, made in python with qt5.
+webo - "webo!": Clean, optimized, light, and fast web browser, made with python and qt5.
+with - "with": Minimalist, fast and optimized file explorer made with python and qt5. (project in development)
+
 Connect with Me
 I'm open to connecting with fellow developers, sharing knowledge, and learning from others' experiences. If you have any suggestions, feedback, or just want to say hello, feel free to reach out to me. You can find my contact information in the GitHub profile.
 
