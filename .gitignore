@@ -1,0 +1,13 @@
+# Python-specific ignore patterns
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Other common ignores
+venv/
+*.env
+*.log
+*.sqlite
+*.swp
