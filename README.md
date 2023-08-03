@@ -53,3 +53,6 @@ For questions or feedback, please contact takashi at ericktakashi0802@gmail.com.
 
 Enjoy browsing with webo.py!
 
+Copyright (c) 2023, takashi
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
