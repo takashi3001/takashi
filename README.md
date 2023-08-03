@@ -1,5 +1,5 @@
 # pO - Editor de Texto
-# version = 1.0
+# version = 1.0.9
 
 Description:
 pO is a simple and lightweight text editor built using Python and the PyQt5 library. It provides basic text editing functionalities, such as creating new documents, opening existing files, and saving documents. The editor also supports undo and redo actions.
