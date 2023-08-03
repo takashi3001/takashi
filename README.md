@@ -51,3 +51,7 @@ For questions or feedback, please contact 'takashi' at 'ericktakashi0802@gmail.c
 
 Enjoy editing with pO!
 
+Copyright (c) 2023, takashi
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
