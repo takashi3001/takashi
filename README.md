@@ -16,7 +16,7 @@ Working with (open source)
 I am working at my own projets:
 pO - "projecto": Light, optimized, clean and fast text editor, made in python with qt5.
 webo - "webo!": Clean, optimized, light, and fast web browser, made with python and qt5.
-webo.rs - "webo!": Clean, optimized, light, and fast web browser, made with rust and iced (alpha, maybe change rust with go;).
+webo.go - "webo!": Clean, optimized, light, and fast web browser, made with go and iced (alpha, maybe change go with rust!).
 
 
 Connect with Me
